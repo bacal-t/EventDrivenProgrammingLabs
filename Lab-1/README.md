@@ -37,7 +37,7 @@ Gain knowledge about basics of event-driven programming about main elements and 
 - "Generate". A button which will generate the whole sentence in edit box.
 
 ## Result
-![Result](EventDrivenProgrammingLabs/Lab-1/result.PNG)
+![alt text](https://github.com/bacal-t/EventDrivenProgrammingLabs/blob/master/Lab-1/result.PNG)
 
 ## Conclusion
 At this laboratory work, I have learned how to make a windows application and how to use basic elements like writing text, creating buttons, using MessageBoxes. Using WM_COMMAND, WM_PAINT I understood the process of creating messages and how we can add/change some king of functionalities in application. 
