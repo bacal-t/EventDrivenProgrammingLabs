@@ -2,7 +2,7 @@
 
 
 ## Personal information
-Sudent: Bacal Tatiana
+Student: Bacal Tatiana
 
 Group: FAF-161
 
