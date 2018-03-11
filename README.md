@@ -1,4 +1,4 @@
-# Laboratories Repository
+# Event Driven Programming Labs
 
 
 ## Personal information
