@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1520782357 source:e:\mihai\faf\anul ii\sem 2\wp-labs\lab#1\main.cpp
+	<windows.h>
+	<mmsystem.h>
+	<stdlib.h>
+	<stdio.h>
+
