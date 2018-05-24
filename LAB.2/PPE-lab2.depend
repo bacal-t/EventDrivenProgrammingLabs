@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1523916497 source:c:\users\xtreme.ws\downloads\wplabs-master\lab#2\sources\colors.rc
+	"colors.h"
+	"afxres.h"
+
+1523916497 c:\users\xtreme.ws\downloads\wplabs-master\lab#2\sources\colors.h
+
+1523916497 source:c:\users\xtreme.ws\downloads\wplabs-master\lab#2\sources\colorsbar.cpp
+	<windows.h>
+	"colors.h"
+
+1523916497 source:c:\users\xtreme.ws\downloads\wplabs-master\lab#2\sources\ownercontrolfunctions.cpp
+	<windows.h>
+	"resources.h"
+
+1523916497 c:\users\xtreme.ws\downloads\wplabs-master\lab#2\sources\resources.h
+
+1523916497 source:c:\users\xtreme.ws\downloads\wplabs-master\lab#2\sources\resource.rc
+	"resources.h"
+	"afxres.h"
+
+1527166076 source:c:\users\xtreme.ws\downloads\wplabs-master\lab#2\sources\main.cpp
+	<windows.h>
+	"colors.h"
+	"resources.h"
+
